@@ -14,7 +14,7 @@
 - Explicar como as ferramentas trabalham juntas e quando são alternativas. Usar uma visão breve do fluxo com analogias simples. Reservar miniaulas e casos detalhados às decisões difíceis com ligação clara ao guia. Tratar tópicos periféricos em leitura breve.
 - Inserir fontes clicáveis e data de verificação. Checar diferenças entre versões e mudanças/deprecações de serviços para evitar conteúdo antigo do curso.
 - Manter HTML acessível, responsivo, legível e utilizável offline, sem dependências remotas. Preservar funcionamento dos quizzes e navegação ao acrescentar seções.
-- Publicação: em 16/11/2026 o usuário pediu para subir o material em um repositório público no GitHub (`viniciuslassabia/estudo-mle`), com `guia-mle.html` e `AGENTS.md`; `.backups/` e `previa-guia-mle.jpg` ficam só locais (`.gitignore`). O arquivo continua sendo um HTML local e offline. Não hospedar em outros lugares nem ativar GitHub Pages sem pedido; fazer commit ou push só quando o usuário pedir.
+- Publicação: em 16/11/2026 o usuário pediu para subir o material em um repositório público no GitHub (`viniciuslassabia/estudo-mle`), com `guia-mle.html` e `AGENTS.md`; `.backups/` e `previa-guia-mle.jpg` ficam só locais (`.gitignore`). No mesmo dia pediu o GitHub Pages (branch `main`, raiz): o caderno abre em https://viniciuslassabia.github.io/estudo-mle/guia-mle.html, e o site só atualiza após push. O arquivo continua funcionando como HTML local e offline. Não hospedar em outros lugares; fazer commit ou push só quando o usuário pedir.
 - Estas instruções devem ser reutilizadas nas próximas mensagens deste projeto, sem pedir ao usuário que as repita. Isto é memória do projeto, não uma alegação de memória global da conta.
 
 ## Auditoria e reestruturação de 14/11/2026
